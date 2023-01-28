@@ -1,2 +1,2 @@
 # OIBSIP
-This is a repo that contains the level 2 tasks of the internship in Oasis Infobyte.
+This is a repo that contains the Level-2 tasks of the Internship with the organization named "Oasis Infobyte".e.
